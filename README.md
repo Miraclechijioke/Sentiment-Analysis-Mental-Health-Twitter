@@ -43,5 +43,5 @@ The model was evaluated on the test set to assess its generalization capabilitie
 ## Conclusion
 This project successfully demonstrates the application of deep learning to sentiment analysis. The preprocessing pipeline ensured clean, structured data, and the LSTM model effectively captured text context to classify sentiments accurately. The model is ready for use in various applications, including customer reviews, social media monitoring, and more.
 
-Supplemental Materials
+## Supplemental Materials
 🎥 Video Explanation: https://vimeo.com/1010916935?share=copy
