@@ -1,5 +1,5 @@
 /started
 /logs
 /.ipynb_checkpoints
-/sentiment_analysis1
+/sentiment_analysis
 /deeplearnpractice
